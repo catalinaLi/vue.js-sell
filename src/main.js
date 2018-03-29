@@ -8,6 +8,8 @@ import GOODS from './components/goods/goods.vue';
 import RATINGS from './components/ratings/ratings.vue';
 import SELLER from './components/seller/seller.vue';
 
+import './common/stylus/index.styl';
+
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
